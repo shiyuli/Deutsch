@@ -1,0 +1,531 @@
+das 中性
+der 阳性
+die 阴性
+
+das Alphabet (字母表):
+A     B     C     D     E     F     G     H     I     J     K     L     M     N     O     P     Q     R     S     T     U     V     W     X     Y     Z
+a:    be:  tse:   de:   e:    εf    ge:   ha:   I:   yɔt    ka:   εl    εm    εn    o:    pe:   ku:   εr    εs    te:   u:   fao    ve:  iks ypsilɔn tsεt
+
+Ä     Ö     Ü     ß
+ε:    ø:    y:  'εstsεt
+
+Chemieindustrie 化工
+{
+    Chemie      化学
+    Industrie   工业
+}
+
+Deutschland 德国
+Deutsche 德国的
+Deutsch 德语
+Studieren 学生
+freie bildung 免费教育
+Institut 学院
+
+der Weltkrieg 世界大战
+{
+    Welt      世界
+    Krieg     战争
+}
+
+bundes 联邦
+Republik 共和国
+Bundesrepublik Deutschland (Federal Republic of Germany)
+Preußen (普鲁士)
+
+demokratische 民主的
+die Berliner Mauer 柏林墙
+
+die Kartoffel, -n 土豆
+das Brot, -e 面包
+die Wurst 香肠
+die Würste 香肠(复)
+
+dazu (these, to)
+Informationen (information)
+
+ein Stein (one stone)
+ein Stern (one star)
+
+einverstanden (agreed)
+
+schöner (beautiful)
+Was für ein shcöner Tag. (What a nice day!) (多么美好的一天)
+
+neue (new)
+Nachrichten (news)
+Wir haben neue Artikel für Sie. (We have some new articles for you.)
+Möchten Sie jetzt die aktuelle Startseite laden? (Would you like to load the current start page now?)
+hier (here)
+weiterlesen (read)
+schlägt (beat)
+
+Die Zukunft des Fliegens auf dem Prüfstand. (The future of flying on the test bench. (工作台))
+
+Flugzeugtriebwerk (Jet Engine)
+Flug (flight)
+Zeug (stuff, gear, things)
+Flugzeug (plane, aircraft)
+trieb (drive, shoot)
+Werk (work, factory, plant)
+Triebwerk (engine)
+
+erforschen (explore)
+Bis ins letzte Detail erforchen. (Explore to the last detail.) (打破沙锅问到底)
+bis (until, till, to)
+ins (in the)
+letzte (last)
+das Altertum erforschen (to explore antiquity) (考古)
+
+Probleme (problems)
+Sprachen (languages)
+weil es den in vielen sprachen nicht gibt (because it doesn't exist in many languages)
+weil (because)
+es (it, he, she)
+in (in, into, to, at, inside, thru)
+vielen (a lot of, many)
+
+den (<定冠词、指示代词、关系代词der的第四格; 定冠词der, die, das的复数第三格>)
+
+Er legt den Finger auf den Mund. (He put his finger on his mouth.)
+
+oder (or)
+
+sein (be)
+{
+                 直陈式       直陈式
+                 现在时       过去时
+    ich          bin          war
+    du           bist         warst
+    er/sie/es    ist          war
+    wir          sind         waren
+    ihr          seid         wart
+    sie/Sie      sind         waren
+}
+
+das ist (that is)
+
+wir (we)
+Ihr (您, 您的, 你们的(尊称))
+ihr (你们, 她(<人称代词sie (单数) 的第三格>), 她的, 它的, 他(她, 它)们的)
+
+Sie (您, 您们, 第二人称(尊称)单数、复数)
+sie (她, 它, 他(她，它)们, <代替man> 有人)
+
+links (在...的左边)
+rechts (在...的右边)
+
+präp ((缩写)介词)
+
+die Netzverwaltung (network management)
+
+leer (empty)
+das Meer (the sea)
+
+R
+{
+    verregnet (rainy, wet)
+    gar nicht (not at all)
+    das Rührei (炒蛋)
+    Brötchen (bread roll) (面包卷)
+    Radio (radio)
+    Rund (round)
+    Grad (degree)
+    grau (grey)
+    Frage (question)
+    rühren (to stir)
+    Rat (advice)
+    Rad (wheel)
+    lehrer (teacher)
+
+    das Rathaus (the town hall)
+    die Ratte (the rat)
+    Russland (Russia)
+    Robert (robert)
+    rechts (right)
+    rennen (to run)
+    rot (red)
+    die Nachrichten (the news)
+    gerade (straight, directly)
+    geradeaus (straight)
+    aufräumen (to clean up)
+    die Bäckerei (the bakery)
+
+    groß (large, big, great, high, tall, long, wide)
+    die Größe (the size)
+    der Druck (the pressure)
+    Bremen
+    grün (green)
+    draußen (outside)
+
+    regelmäßig (regularly)
+}
+
+macht (power)
+wieder (again)
+
+Danke! (Thanks.)
+Bitte! (No thanks.)
+
+Mit dem Herzen denken. (用心去想)
+Herzen (heart)
+
+nervös (nervous)
+
+Ich gebe Ihnen einen guten Rat. (I give you a good advice.)
+
+auf Wiedersehen (Bye!)
+Tschüß! (Bye!)
+
+Vormittag (forenoon)
+Mittag (noon)
+Nachmittag (afternoon)
+
+Wie viel kostet es? (How much does it cost?)
+
+Guten Morgen! (Good morning!)
+Guten Tag! (Have a nice day!)
+Guten Abend! (Good evening!)
+
+der Sonntag (Sunday)
+der Montag (Monday)
+der Dienstag (Tuesday)
+der Mittwoch (Wednesday)
+der Donnerstag (Thursday)
+der Freitag (Friday)
+der Samstag (Saturday)
+
+Sonne (sun)
+
+zwo == zwei
+Die Zwei ist die Natürliche Zahl zwischen Eins und Drei, Sie ist gerade und eine Primzahl.
+//The two is the natural number that between one and three. It is even and a prime number(质数).
+
+Liebe ist für alle da. (Love is there for everyone.)
+
+der Käse
+das Stück,-e
+ein Stück Käse (一块奶酪)
+
+der Kuchen
+ein Stück Kuchen (一块蛋糕)
+
+die Wurst (sausage)
+die Würste
+
+Kaffee mit Zucker (加糖的咖啡)
+Kaffee ohne Zucker (不加糖的咖啡)
+die Tasse,-n (小杯)
+eine Tasse Kaffee mit Zucker (一杯加糖的咖啡)
+
+die Milch
+das Glas (玻璃杯)
+ein Glas Milch (一杯牛奶)
+
+der Saft
+ein Glas Saft (一杯果汁)
+
+das Mineralwasser
+die Flasche,-n (瓶)
+eine Flasche Mineralwasser (一瓶矿泉水)
+
+Ich nehme ein Stück Kuchen. (我点一块蛋糕)
+Er nimmt ein Glas Milch. (他点一杯牛奶)
+Sie nimmt eine Tasse Kaffee. (她点一杯咖啡)
+
+die Heroin,-nen (女英雄, 海洛因)
+heroisch (heroic, heroically)
+
+Mit einer Spieluhr in der Hand. (With a music box in his hand.)
+Und aus der Erde singt das Kind. (And the child sings out of the earth.)
+
+schlecht (bad)
+die Melodie -,-n (melody)
+die Einsamkeit -,-en (lonliness)
+die Lüge -,-n (lie)
+der Zweifel -s,- (doubt)
+züchtigen (chastise) (惩罚)
+dominieren (dominate) (支配)
+
+die Webseite (website)
+
+göttlich (divine)
+der Gott (god)
+Gott sei Dank. (Thank you, God.)
+
+die Traumdeutung (The Interpretation of Dreams.)
+der Traum -(e)s,Träume (Dream)
+die Deutung -,-en (Interpretation)
+
+Sternstraße (star street) (明星街)
+
+Str. == Straße (street)
+ss == ß
+
+die Präposition (preposition) (介词)
+{
+    für (for, in favor of, considering, in return for, instead of, in place of)
+    auf (on, to, in, at, onto, upon, towards, toward)
+    im (in the)
+    an (to, at, on, by, against, along, beside)
+    um (by, for, around, at, about, round)
+    wie (like)
+}
+
+die Konjunktion (conjunction) (连词)
+{
+    da (since, as, because, inasmuch as)
+    um (in order)
+    wie (as, such as, like, than, as well as, when)
+    wenn (if, when, once, provided)
+    nur (only)
+    sowie (as well as, as soon as, the moment)
+}
+
+das Adverb (adverb) (副词)
+{
+    da (there, here, then, so, in, at that, to that)
+    was (how much)
+    wie (how)
+    nur (only, solely, just, merely, simply, singly)
+    hier (here, over here, locally, in this country)
+    her (here)
+    mehr (more, further)
+    weiter (further, farther, more, on, along, forth, further on, furthermore, onward, onwards, beyond, otherwise, afterwards)
+}
+
+das Pronomen (pronoun) (代词)
+{
+    alle (all, everyone, everybody)
+    was (what, which, something)
+    keiner (none, no one, nobody, neither, no man)
+}
+
+das Adjektiv (adjective) (形容词)
+{
+    alle (all, any)
+    mehr (more)
+    weiter (further, other, additional)
+}
+
+Friedensplatz (peace square) (和平广场)
+Frieden (peace)
+
+Budapester (布达佩斯)
+Münster (明斯特)
+
+Fußball (football)
+
+Fußball
+{
+    Ball (ball)
+    Stand (the score)
+    der Anfang (the start of the match)
+    Erste Hälfte (first half)
+    Zweite Hälfte (second half)
+    Abseits (offsides) (越位)
+    Ecke; Eckball (corner kick) (角球)
+    Einwurf (throw in) (异议)
+    Freistoß (free kick) (任意球)
+    Foul, Infraktion (foul, infraction) (犯规, 侵害)
+    Auswechseln (substitute) (替补)
+    Schuss (shot at goal) (镜头)
+    Torschuss (goalkick) (球门球)
+    Ausgleich (to tie/draw) (平局)
+    Kopfball (header) (队长)
+    Handball (handball) (手球)
+    Pass (pass) (传球)
+    Rückgabe (return pass) (回传)
+    siegen (to win)
+    verlieren (to lose)
+
+    Fußball-Club Bayern München (FC Bayern Munich) (拜仁慕尼黑)
+}
+
+Achtung (Attention!) (注意!)
+vor der Leistung (before the performance) (真了不起!)
+
+Bomber der Nation (The nation's bomber.)
+
+Das ist nett! (That is great!)
+Das sind deine Probleme, die gehen mich nichts an. (These are your problems, they are none of my business.) (这是你的问题与我无关。)
+sind (sein) (be)
+deine (your)
+gehen (go, move, walk, leave, go down, quit)
+
+akzeptieren (accept)
+Feuer! (Fire!)
+
+populäre (popular)
+der Dialekt (dialect) (方言)
+
+Applikationen (application)
+passende (matching)
+der Kunde -n,-n (customer)
+
+Das kann uns keiner nehmen. (Nobody can take this from us.)
+kann (can)
+keiner (none)
+nehmen (to take)
+
+Was ist das? (What is this?)
+was (what)
+
+Wir setzen Cookies (eigene und von Drittanbietern) ein, um Ihnen die Nutzung unserer Webseiten zu erleichtern und Ihnen Werbemitteilungen im Einklang mit Ihren Browser-Einstellungen anzuzeigen. Mit der weiteren Nutzung unserer Webserten sind Sie mit dem Einsatz der Cookies einverstanden. Weitere Informationen zu Cookies entnehmen Sie bitte unserer Cookir-Richtlinie.
+(We use cookies (proprietary and third-party) to help you use our websites and to display advertisements in accordance with your browser settings. By using our web pages you agree to the use of cookies. For more information about cookies, please see our Cookie Policy.)
+
+setzen (use, set, put, lay, move)
+eigene (own, proprietary) (所有者, 所有权)
+Drittanbietern (third-party)
+Nutzung (use, utilization)
+unserer (ours)
+die Webseiten (website)
+erleichtern (facilitate) (促进)
+Werbemitteilungen (advertisements)
+der Einklang (harmony) (和谐)
+
+Wir verwenden Cookies, um dein Erlebnis sowie Werbung auf dieser und anderen Seiten anzupassen. Wenn du weitere Infos erhalten oder die Einstellungen ändern möchtest, klick hier.
+(We use cookies to customize your experience and advertising on this and other sites. If you would like more information or to change the settings, click here.)
+(我们使用cookies来定制您在此网站和其他网站上的体验和广告。如果您想了解更多信息或更改设置，请点击此处。)
+
+verwenden (use)
+dein (your)
+Erlebnis (experience)
+sowie (as well as)
+Werbung (advertisement)
+dieser (this)
+anderen (other)
+Seiten (pages, sites)
+anzupassen (adjust)
+wenn (if)
+weitere (further, other, additional)
+erhalten (get, receive)
+oder (or)
+Einstellungen (setting)
+ändern (change, modify)
+möchtest (want)
+hier (here)
+
+die Info -,-s (information)
+die Information -,-en
+
+das Böhmen (Bohemia) (波希米亚)
+die Französische Revolution (The French revolution) (La Révolution française) (法国大革命)
+das Französisch (French)
+auf Französisch (in French)
+nach Europa (to Europe)
+die Europäische Union (European Union)
+
+Die Europäische Union ist ein Verbund von 28 Mitgliedstaaten.
+(The European Union is a federation of 28 Member States.)
+
+Verbund (combine, composite) (综合)
+Mitgliedstaaten (member states) (成员国)
+Mitglied (member)
+Glied (member)
+Staaten (staat) (states)
+Staat (state)
+
+Es geht los (It starts)
+lass uns gehen (Let's go!)
+
+die Wehrmacht (国防军)
+Deutsche Marine (German Navy)
+
+das Auto
+{
+    Volkswagen (大众汽车)
+    Volks (people)
+    wagen (car, dare)
+
+    Kleinwagen (small car) (小型车)
+    Kompakt (compact) (紧凑型车)
+    der Touran (途安系列)
+    der Sharan (夏朗系列, 庇护(印地语))
+
+    das Interieur (interior) (内部)
+    das Exterieur (exterior) (外部)
+
+    Panorama-Schiebe-/Ausstelldach (全景倾斜/滑动天窗)
+    das Panorama (panorama) (全景)
+    schiebe schieben (sliding) (滑动)
+    schieben (push)
+    das Ausstelldach (sunroof) (天窗)
+
+    Bi-Xenon-Scheinwerfer (Bi-xenon headlights) (双氙气大灯)
+    xenon (xenon) (氙)
+    der Scheinwerfer (headlights) (车头灯)
+
+    die Räder (wheels)
+
+    der Gepäckraum (luggage compartment) (行李厢)
+    raum (room)
+
+    Assistenzsysteme (assistance systems)
+    das System -s,-e (system)
+}
+
+Er kann Auto fahren. (He can drive a car.)
+das Fahrrad schieben (push the bike)
+das Fahrrad (bicycle, bike)
+Die Räder mahlen im sand. (The wheels grind in the sand.)
+
+Familien wissen, warum. (Families know why.)
+wissen (know)
+warum (why)
+
+Mehr erfahren (Learn more)
+mehr (more)
+
+Mit seinem flexiblen Raumkonzept, elektrischen Schiebetüren und maximalem Komfort auf allen drei Sitzreihen ist der Sharan für alles gerüstet, was Sie mit Ihrer Familie geplant haben - oder eben nicht geplant haben.
+(With its flexible room concept, electric sliding doors and maximum comfort on all three rows of seats, the Sharan is equipped for everything you have panned with your family - or just not planned.)
+
+seinem (his, its)
+flexiblen (flexible) (灵活的)
+Raumkonzept (space concept) (空间概念)
+Raum (room)
+konzept (concept)
+elektrischen (electrical)
+Schiebetüren (sliding doors) (推拉门)
+maximalem (maximum, maximal) (最大的)
+der Komfort (comfort) (舒服)
+die Sitzreihen (seats)
+gerüstet (ready)
+geplant (planned) (有计划的)
+haben (have)
+oder (or)
+eben (just)
+
+Der Sharan in 360°.
+das Design -s,-s (design)
+
+Die hochwertige Ausstattung und eine klare Designsprache kennzeichnen jeden Volkswagen. Zyhlreiche Individualisierungsmöglichkeiten bieten Ihnen zusätzlich die Chance, Ihren ganz persönlichen Sharan entstehen zu lassen. Sie werden staunen, wie viel Auswahl Sie haben.
+(The high-quality equipment and a clear design language charactor every Volkswagen. Numerous customization options also give you the chance to create your own personal Sharan. You will be amazed at how much choices you have.)
+
+hochwertige (high-quality)
+die Ausstattung -,-en (equipment) (设备)
+ausstatten (equip)
+klare (klären) (clear)
+Designsprache (design language) (设计语言)
+
+Schumacher (舒马赫)
+
+Armbanduhren Armbanduhr (watches) (手表(复))
+Eine Armbanduhr ist ein Zeitmessgerät (Uhr), das mit Hilfe eines Bandes (Uhrenarmband) um das handgelenk getragen wird.
+(A watch is a clock that is worn around the wrist with the help of a strap (watch strap).)
+
+die Uhr -,-en (clock)
+Uhrenarmband (watch strap)
+das Armband (bracelet) (手镯)
+das Handgelenk (wrist)
+
+ermöglicht (allows)
+
+der Sinus (sine) (正弦)
+der Glanz (gloss, shine, luster, splendor, sheen, glory) (掩饰, 闪耀)
+der Leuchten (shine, glow, radiance, brightness, radiancy) (辉光)
+die Politur (polish, polishing, glaze, varnish, shine, veneer) (抛光)
+
+Jetzt stehst du da an der Laterne. (Now you're standing by the lantern.)
+jetzt (now)
+stehst (stand)

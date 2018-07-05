@@ -11,7 +11,7 @@ a:    be:  tse:   de:   e:    εf    ge:   ha:   I:   yɔt    ka:   εl    εm  
 
 Chemieindustrie 化工
 {
-    Chemie      化学
+    die Chemie  化学
     Industrie   工业
 }
 
@@ -77,13 +77,15 @@ ins (in the)
 letzte (last)
 das Altertum erforschen (to explore antiquity) (考古)
 
-Probleme (problems)
-Sprachen (languages)
+das Problem -s,-e (problem)
+die Sprache -,-n (language)
 weil es den in vielen sprachen nicht gibt (because it doesn't exist in many languages)
 weil (because)
 es (it, he, she)
 in (in, into, to, at, inside, thru)
 vielen (a lot of, many)
+gibt, geben
+geben (give, pass, hand, put, send, lend, serve, deal, award, hand out)
 
 den (<定冠词、指示代词、关系代词der的第四格; 定冠词der, die, das的复数第三格>)
 
@@ -270,16 +272,29 @@ die Präposition (preposition) (介词)
     an (to, at, on, by, against, along, beside)
     um (by, for, around, at, about, round)
     wie (like)
+    zu (to, for, at, in, with, into, as, towards, toward)
+    ab (from, as of)
+    von (of, from, by, out of, about)
+    in (in, into, to, at, inside, thru)
+    durch (by, through, due to, by means of, via, because of, by way of, owing to, thru, by dint of, per, by force of)
+    als (except)
+    außer (except, out of, besides, apart from, save, beyond, aside from)
+    nach (to, according to, after, by, for, in accordance with, towards, toward, past, over to)
 }
 
 die Konjunktion (conjunction) (连词)
 {
     da (since, as, because, inasmuch as)
+    dass (that, would that, if only)
     um (in order)
     wie (as, such as, like, than, as well as, when)
     wenn (if, when, once, provided)
     nur (only)
     sowie (as well as, as soon as, the moment)
+    als (as, than, when, as if, once)
+    doch (but, yet, however, except, but still)
+    noch (nor)
+    außer (except)
 }
 
 das Adverb (adverb) (副词)
@@ -287,11 +302,26 @@ das Adverb (adverb) (副词)
     da (there, here, then, so, in, at that, to that)
     was (how much)
     wie (how)
-    nur (only, solely, just, merely, simply, singly)
+    nur (only, just, merely, solely, simply, singly)
     hier (here, over here, locally, in this country)
     her (here)
     mehr (more, further)
     weiter (further, farther, more, on, along, forth, further on, furthermore, onward, onwards, beyond, otherwise, afterwards)
+    zu(on, too, off)
+    auch (also, too, as well, even, so)
+    doch (but, nevertheless, through, after all, all the time, anyway)
+    noch (yet, still, more, else)
+    jetzt (now, nowadays, presently)
+    ab (off, away)
+    durch (through, throughout, thru)
+    frei (freely)
+    außer (without, short of)
+    wieder (again)
+
+    {
+        oben (above, up, at the top, upstairs, overhead, up there, up here, up north, on the surface)
+        unten (below, downstairs, underneath, under, beneath, at the bottom of, down below, down there, down here)
+    }
 }
 
 das Pronomen (pronoun) (代词)
@@ -299,6 +329,15 @@ das Pronomen (pronoun) (代词)
     alle (all, everyone, everybody)
     was (what, which, something)
     keiner (none, no one, nobody, neither, no man)
+    diese (this, these)
+    dieses, dieser, dies (this)
+    das (that, this, it, who)
+    man (you, one, they, somebody, someone)
+    es (it)
+    er (he)
+    wer (who, anyone, anybody)
+    den (which, that one)
+    wir (we, us)
 }
 
 das Adjektiv (adjective) (形容词)
@@ -306,6 +345,21 @@ das Adjektiv (adjective) (形容词)
     alle (all, any)
     mehr (more)
     weiter (further, other, additional)
+    zu(closed, shut)
+    durch (well done)
+    frei (free, clear, open, available, vacant, empty, bare, independent, loose, liberal, unobstructed)
+}
+
+der Artikel (article) (冠词)
+{
+    das (the)
+    den (the)
+}
+
+das Verb (verb) (动词)
+{
+    wollen (want, wish, like, will, intend, desire)
+    müssen (must, need, have to, be to, be meant to)
 }
 
 Friedensplatz (peace square) (和平广场)
@@ -395,7 +449,7 @@ sowie (as well as)
 Werbung (advertisement)
 dieser (this)
 anderen (other)
-Seiten (pages, sites)
+Seiten (Seite) (pages, sites)
 anzupassen (adjust)
 wenn (if)
 weitere (further, other, additional)
@@ -527,5 +581,98 @@ der Leuchten (shine, glow, radiance, brightness, radiancy) (辉光)
 die Politur (polish, polishing, glaze, varnish, shine, veneer) (抛光)
 
 Jetzt stehst du da an der Laterne. (Now you're standing by the lantern.)
-jetzt (now)
 stehst (stand)
+
+Horch (listen)
+Kinder- und Hausmärchen (Children's and Household Tales) (Grimms' Fairy Tales)
+
+das Niemandsland (no man's land)
+der Wanderer (walker) (漫游者)
+
+Auschwitz (奥斯威辛)
+
+die Architektur (architecture) (建筑学)
+
+Diese Seite existiert nicht (The page doesn't exist.)
+die Seite (page, side, hand, flank, facet, beam)
+
+der Strahl (beam) (光束)
+
+die Musik
+{
+    das Musikalbum (music album)
+    die Gruppe (group)
+}
+
+der Song
+{
+    rosenrot <Adj.> (rose red) (玫瑰红)
+}
+
+Tiefe Brunnen muss man graben wenn man klares Wasser will.
+(You have to dig deep wells if you want clear water.)
+(要想喝到清澈的水，就要挖一口深井。)
+
+die Tiefe (depth, depths, profundity, depness, lowness, gravity, abysm)
+der Brunnen (wells) (水井)
+muss (müssen) (must)
+graben (dig, burrow, mine, scoop out, grub)
+will (wollen) (want)
+klares (clear)
+das Wasser (water)
+
+der Jüngling (youth)
+
+Humboldt-Universität zu Berlin (The Humboldt University of Berlin)
+
+das Jahr -[e]s,-e (year)
+alle Jahre (all years)
+
+Heidenröslein (Rose on the heath, Little rose of the field) : Poem
+die Heckenrose (wild rose) (野玫瑰)
+
+der Meister (master, champion, foreman)
+
+die Suche -,-n (search)
+suchen <V.> (search)
+
+die Farbe (color)
+{
+    das Schwarz (black)
+    rot (red)
+}
+
+die Mayonnaise (mayonnaise) (蛋黄酱)
+der Besitz (possession) (所有权)
+
+die Medizin (medicine) (医学, 药物)
+
+die Villa (villa) (别墅)
+das Schloss (castle, lock) (城堡, 锁)
+die Burg (castle) (城堡)
+das Commonwealth (commonwealth) (联邦)
+die Föderation (federation) (联邦)
+der Verband (association) (协会)
+die Assoziation (association) (协会)
+
+Helfen Sie uns, uns zu verbessern (Help us to improve ourselves)
+
+das Dessert (dessert) (甜点)
+das Benzin (petrol) (汽油)
+das Benzol (benzene) (苯)
+
+Vielen Dank für Ihre Hilfe. (Thanks for your help.)
+die Hilfe (help)
+
+das Leuchtsignal (flare) (闪光)
+die Fackel (torch, flare) (火炬)
+die Taschenlampe (flashlight) (手电筒)
+die Lampe (lamp) (灯)
+die Leuchte (light, lamp)
+das Licht (light)
+
+das Leipzig (莱比锡)
+der Rhein (Rhine) (莱茵)
+
+nach oben (upward)
+nach unten (downward)
